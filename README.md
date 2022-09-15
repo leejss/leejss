@@ -1,2 +1,5 @@
 
-<a href="https://tinyyard.dev">tinyyard</a>
+<h1>
+<a href="https://tinyyard.dev" target="_blank">tinyyard</a>
+</h1>
+
